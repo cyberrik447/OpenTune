@@ -1,4 +1,4 @@
-{
+if no{
   "formatVersion": 1,
   "database": {
     "version": 1,
@@ -282,7 +282,7 @@
           "columnNames": [
             "id"
           ],
-          "autoGenerate": false
+          "autoGenerate": true 
         },
         "indices": [],
         "foreignKeys": []
